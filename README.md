@@ -1,0 +1,4 @@
+# snake-Game
+
+Requirements 
+pygame
